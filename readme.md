@@ -1,4 +1,4 @@
-# GPT from Scratch
+# GPT transformer architecture from Scratch
 
 A minimal implementation of a Generative Pre-trained Transformer (GPT) model built from scratch using PyTorch. This project demonstrates the core components of transformer architecture including self-attention mechanisms, multi-head attention, and the decoder-only architecture that powers modern language models.
 
