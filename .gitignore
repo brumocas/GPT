@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+gpt_env/
+venv/
+env/
+ENV/
+
+# Model files (optional - you may want to exclude these if they're large)
+*.pth
+*.pt
+*.ckpt
+
+# Generated files
+more.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (optional)
+# input.txt  # Uncomment if you don't want to commit the dataset
+
